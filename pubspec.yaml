@@ -29,6 +29,8 @@ dependencies:
   image: ^4.2.0
   http: ^1.1.2
   url_launcher: ^6.0.20
+  image_gallery_saver: ^2.0.3
+  flutter_typeahead: ^4.0.0
   
 
   # The following adds the Cupertino Icons font to your application.
