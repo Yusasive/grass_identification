@@ -95,7 +95,7 @@ class _FeedbackPageState extends State<Home> {
                             onPressed: _submitFeedback,
                             child: Text('Submit'),
                             style: ElevatedButton.styleFrom(
-                              backgroundColor: Colors.orange,
+                              backgroundColor: Colors.green,
                               padding: EdgeInsets.symmetric(
                                   horizontal: 40, vertical: 15),
                               textStyle: TextStyle(
